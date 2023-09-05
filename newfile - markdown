@@ -1,0 +1,85 @@
+What is Markdown?
+
+Writing format
+plain text/human readable
+Simple, compact syntax (formatting)
+Opensource
+
+Flavors of Markdown
+Markdown(Original, John Gruber)
+Enhanced versions
+  markdown extra
+  multi markdown
+  gihub flavored markdown
+  several more
+
+Why Markdown
+Simple format
+lightweight
+widely supported
+cross platform/cross device
+online/cloud based
+usedfor writing publish to html pdf other
+
+Usecases:
+Cloud based note taking
+outlining /brainstorming
+composition / prose/ scripts
+content for a blog /website
+github/bitbucket
+
+Editor setup: 
+any text editor
+IDE's 
+online editors   - stackedit.io
+
+
+clear
+
+
+# Paragraph Examples (Heading)
+
+This is my first paragraph example (Enter twice to treat as a paragraph)
+
+This is my second paragraph
+
+This example will feature a break about here but  (all content in one line)
+it will show in the same line
+
+
+in this example i will use a hard break   (two spaces at the line end creates line break)
+to force a break in my   
+line
+
+heading 1
+
+hello 
+=====
+or
+#hello
+
+heading2
+hello
+-----
+or 
+##hello
+
+###  h3
+#### h4
+##### h5
+###### h6
+
+emphasis: 
+_relly_
+strong:
+__verystrong__
+
+var\_example\_  to ignore emphasis
+
+
+
+Quotes:
+
+
+
+
